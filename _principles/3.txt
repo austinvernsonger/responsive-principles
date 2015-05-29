@@ -1,0 +1,4 @@
+---
+title: Build using systems that can be reasoned with
+description: Given the complexity of the technology we use to build the web, aim to keep things simple. Build modular systems, made up of discrete, self-documented components that can be adapted and improved over time.
+---

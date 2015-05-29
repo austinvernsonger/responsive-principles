@@ -1,0 +1,12 @@
+title: Responsive Principles
+encoding: UTF-8
+
+# Meta
+author:
+  name: Paul Robert Lloyd
+  url: https://paulrobertlloyd.com
+
+# Collections
+collections:
+  principles:
+    output: false

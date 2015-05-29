@@ -1,0 +1,4 @@
+---
+title: Start from the point of greatest adaptability
+description: Start from a position that makes few assumptions about context and interface, and instead focus on the information users wish to acquire and the tasks they wish to accomplish.
+---
